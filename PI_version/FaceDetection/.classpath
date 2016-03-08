@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv"/>
+	<classpathentry kind="lib" path="/home/pi/neuroph-2.7/neuroph-core-2.7.jar" sourcepath="/home/pi/neuroph-2.7/sources/neuroph-2.7/Core"/>
+	<classpathentry kind="lib" path="/home/pi/neuroph-2.7/neuroph-imgrec-2.7.jar" sourcepath="/home/pi/neuroph-2.7/sources/neuroph-2.7/ImageRec"/>
+	<classpathentry kind="lib" path="/home/pi/neuroph-2.7/neuroph-ocr-2.7.jar" sourcepath="/home/pi/neuroph-2.7/sources/neuroph-2.7/OCR"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
